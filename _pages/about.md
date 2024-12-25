@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "作品一览"
+title: ""
 author_profile: false
 redirect_from: 
   - /about/
