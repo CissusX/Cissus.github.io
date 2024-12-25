@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 # Gamejam
-* [2024吉比特高校Gamejam](https://www.bilibili.com/video/BV1KMqGY2EXL/){target="_blank"}
-* [2024TaptapGamejam](https://www.bilibili.com/video/BV1v5SZYpER1/){target="_blank"}
+* [2024吉比特高校Gamejam](https://www.bilibili.com/video/BV1KMqGY2EXL/) {target="_blank"}
+* [2024TaptapGamejam](https://www.bilibili.com/video/BV1v5SZYpER1/) {target="_blank"}
 * [2023吉比特高校Gamejam](https://www.bilibili.com/video/BV13m42177wq){target="_blank"}
 
 # 系统玩法拆解
